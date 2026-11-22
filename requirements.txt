@@ -1,0 +1,1 @@
+# No external third-party packages required; quiz_module.py uses the Python standard library.
